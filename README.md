@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **Chidambar.joshi5@gmail.com**
 
+- - 📄 Know about my experiences [https://drive.google.com/file/d/10NVpvqK8scsLcuL5NDQJ3HIHHnYEEdq3/view?usp=sharing](https://drive.google.com/file/d/10NVpvqK8scsLcuL5NDQJ3HIHHnYEEdq3/view?usp=sharing)
+
 
 
 <h3 align="left">Connect with me:</h3>
