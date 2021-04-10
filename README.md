@@ -15,7 +15,7 @@
 - 📫 How to reach me **Chidambar.joshi5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="Center">
 <a href="https://dev.to/@chidambarjoshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@chidambarjoshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chidambar-joshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chidambar-joshi" height="30" width="40" /></a>
 <a href="https://instagram.com/joshichidambar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joshichidambar" height="30" width="40" /></a>
