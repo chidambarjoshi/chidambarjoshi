@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-4072
-Fork on GitHub
-749
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Chidambar Joshi</h1>
 <h3 align="center">A passionate Django, Python developer from India</h3>
 
