@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Chidambar Joshi</h1>
-<h3 align="center">A passionate Python, Django developer from India</h3>
+<h3 align="center">A passionate Python Developer, Django developer from India</h3>
 
 - 🔭 I’m currently working on [ExpertClasses](https://github.com/chidambarjoshi/Expert_Computer_Education_Centre)
 
