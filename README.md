@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chidambarjoshi](https://github.com/chidambarjoshi?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/chidambarjoshi?tab=repositories](https://github.com/chidambarjoshi?tab=repositories)
 
 - 💬 Ask me about **Django, Python, Rest API**
 
